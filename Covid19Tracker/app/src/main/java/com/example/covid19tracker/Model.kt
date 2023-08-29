@@ -7,6 +7,6 @@ data class Model(
     val cured: String,
     val active: String,
     val incAct: String,
-    val incDth: String,
+    val incDth: String? = "0",
     val incRec: String,
 )
