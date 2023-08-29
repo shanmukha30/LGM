@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Face detection 3</string>
+    <string name="camera">Camera</string>
+    <string name="lcofacedetection">LCOFaceDetection</string>
+    <string name="ok">ok</string>
+</resources>
